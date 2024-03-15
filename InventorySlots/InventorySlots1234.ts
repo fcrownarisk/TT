@@ -3,7 +3,6 @@ import '../XYZT/x2y2z2t2'
 import '../XYZT/x3y3z3t3'
 import '../return/returnnnnn'
 import '../return/returnnnnnn'
-
 import '../return/returnnnnnnn'
 void function InventorySlots1() {
     return [
